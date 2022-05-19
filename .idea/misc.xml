@@ -4,6 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Android_21/Android_Studio/FindYourMovie/app/src/main/res/layout/activity_main.xml" value="0.25052083333333336" />
+        <entry key="..\:/Android_21/Android_Studio/FindYourMovie/app/src/main/res/layout/fragment_main.xml" value="0.1" />
+        <entry key="..\:/Android_21/Android_Studio/FindYourMovie/app/src/main/res/layout/fragment_main_favorite_films.xml" value="0.1" />
+        <entry key="..\:/Android_21/Android_Studio/FindYourMovie/app/src/main/res/layout/fragment_main_rating_films.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android_21/Android_Studio/FindYourMovie/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2076923076923077" />
       </map>
     </option>
   </component>
