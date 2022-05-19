@@ -5,4 +5,8 @@
     <string name="action_home">Home</string>
     <string name="action_favorite">Favorite</string>
     <string name="action_rating">Rating</string>
+    <string name="favorite_movie">Favorite Movie</string>
+    <string name="rating_films">Rating Movie</string>
+    <string name="cinema_finder">CINEMA FINDER</string>
+    <string name="title">Название фильма</string>
 </resources>
